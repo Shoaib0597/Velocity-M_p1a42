@@ -290,5 +290,5 @@ config SUSPEND_TIME
 	  /sys/kernel/debug/suspend_time
 #lenovo.sw chenyb1 20150310 add for pm log begin
 config LENOVO_PM_LOG
-    def_bool y
+    def_bool n
 #lenovo.sw chenyb1 20150310 add for pm log end
